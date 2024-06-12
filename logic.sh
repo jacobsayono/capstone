@@ -2,15 +2,15 @@
 
 # Define functions
 function left() {
-    echo "left"
+    ./left.sh
 }
 
 function right() {
-    echo "right"
+    ./right.sh
 }
 
 function forward() {
-    echo "forward"
+    ./forward.sh
 }
 
 # Input numbers from command line arguments
